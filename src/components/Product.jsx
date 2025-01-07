@@ -17,6 +17,7 @@ export default function Product({
 }
 
 // Опис типів пропсів компонента
+// Опис типів пропсів компонента
 Product.propTypes = {
   name: PropTypes.string.isRequired,
   imgUrl: PropTypes.string,
