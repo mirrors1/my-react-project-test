@@ -14,13 +14,13 @@ const favouriteBooks = [
 export default function App() {
   return (
     <div>
-      <Card>
+      {/* <Card>
         <h1>Card title</h1>
         <p>Text between opening and closing tag</p>
-      </Card>
+      </Card> */}
 
-      <h1>Books of the week</h1>
-      <BookList books={favouriteBooks} />
+      {/* <h1>Books of the week</h1>
+      <BookList books={favouriteBooks} /> */}
 
       <Mailbox username="Ivan" />
       <h1>Best selling</h1>
