@@ -2,7 +2,7 @@
   "name": "my-react-project-test",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mirrors1.github.io/my-react-project-test/",
+  "homepage": "https://my-react-project-test-iota.vercel.app/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
