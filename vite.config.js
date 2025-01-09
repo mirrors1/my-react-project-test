@@ -7,5 +7,4 @@ export default defineConfig({
   build: {
     sourcemap: true,
   },
-  base: '/my-react-project-test/',
 });
